@@ -24,3 +24,11 @@ Solution for codewars kata [Counting sheep...](https://www.codewars.com/kata/54e
     		return acc;
   		}, 0);
 	}
+
+## Languages
+
+| Language | Level |
+|----------|-------|
+|English   |Pre-intermediate|
+|Ukrainian |Intermediate|
+|Russian   |Native|
