@@ -3,11 +3,6 @@
 ## About me
 My name is Danil. Trying complete this course __#413__ time
 
-## Contacts
-You can message me via:
-- [Telegram](https://t.me/dan_mk)
-- [Discord](https://discord.com/users/79198799469223936)
-
 ## Skills
 - HTML, Pug
 - CSS, SCSS
